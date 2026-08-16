@@ -121,31 +121,6 @@ Fertilizer_Recommendation_Agent/
 5. The application displays the recommended fertilizer and confidence score.
 6. The recommendation is stored in the farm history.
 
-## 💻 Run Locally
-
-Clone the repository:
-
-```bash
-git clone https://github.com/tenalipreethi-sketch/Fertilizer_Recommendation_Agent.git
-```
-
-Open the project directory:
-
-```bash
-cd Fertilizer_Recommendation_Agent
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
 
 ## 📸 Application Screenshots
 
